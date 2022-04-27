@@ -6,4 +6,6 @@ modify third time!
 
 on the hot-fix modify!
 
-test confict merge modify on master!
+
+test confict merge modify on master!-------on the hot-fix test conflict!
+
