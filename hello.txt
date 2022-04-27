@@ -14,3 +14,4 @@ modify on the broswer
 modify after used SSH key
 
 modify on the host local
+update
